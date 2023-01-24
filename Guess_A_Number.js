@@ -28,11 +28,9 @@ function guessANumber () {
                 }
             }
             else {
-                
                 console.log('Invalid input! Try again...');
                 recursiveAsyncReadLine();
             }
- 
         });
     } 
     recursiveAsyncReadLine();   
