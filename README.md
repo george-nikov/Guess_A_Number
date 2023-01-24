@@ -16,7 +16,7 @@ The computer selects a **random number**, then returns information whether the *
 
 Firstly, we create an interface where we can enter the number without stopping the program then we create a method "random" which helps the computer choose a random number. We also create a function that stores the question about the number using "readline.question". Then we check if the input data is valid using if-else statement and check if the number entered by the player matches the computer's number. Finally we print the output. 
 
-** Source Code**: [Source Code](Guess_A_Number.js)
+**Source Code:** [Source Code](Guess_A_Number.js)
 
 ## Screenshots
 
